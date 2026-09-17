@@ -3,6 +3,7 @@ langchain
 langchain-community
 langchain-core
 langchain-huggingface
+langchain-text-splitters
 langgraph
 langgraph-checkpoint-sqlite
 python-dotenv
